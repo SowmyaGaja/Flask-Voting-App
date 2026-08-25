@@ -169,9 +169,6 @@ Tested endpoints:
 * `/health`
 * `/vote/`sowmya
 * `/vote/`Ganesh
-* /vote/Sowmya
-* /vote/Senthil
-* /vote/sowmya
 * `/results`
 * `/reset`
 
@@ -183,11 +180,17 @@ The voting functionality was verified by adding votes, checking results, and res
 
 ## 1. Application Running
 
-Add a screenshot showing the Flask application running in the browser.
+Home Endpoint
+<img width="396" height="195" alt="AdobeExpressPhotos_32fbb552ab544eb8a0543f1c46516672_CopyEdited" src="https://github.com/user-attachments/assets/7e4adb36-53fa-41ae-bcf6-fc70f7254e84" />
 
-```text
-![Application Running](screenshots/flask-running.png)
-```
+Health Endpoint
+<img width="521" height="231" alt="AdobeExpressPhotos_8631c925e9084d09b1018847bab27461_CopyEdited" src="https://github.com/user-attachments/assets/4182cf42-55fe-4699-bc4b-b7be3791b66e" />
+
+Voting Endpoint
+<img width="551" height="339" alt="image" src="https://github.com/user-attachments/assets/6e545f4d-786b-4491-be4f-36127b4be1c1" />
+
+Voting Result Endpoint
+<img width="950" height="378" alt="Screenshot 2026-08-25 123024" src="https://github.com/user-attachments/assets/6cd688ce-57de-49a7-b25b-b67f46722d15" />
 
 ## 2. GitHub Branches
 
