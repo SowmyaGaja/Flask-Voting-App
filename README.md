@@ -180,35 +180,29 @@ The voting functionality was verified by adding votes, checking results, and res
 
 ## 1. Application Running
 
-Home Endpoint
+Home Endpoint </br>
 <img width="396" height="195" alt="AdobeExpressPhotos_32fbb552ab544eb8a0543f1c46516672_CopyEdited" src="https://github.com/user-attachments/assets/7e4adb36-53fa-41ae-bcf6-fc70f7254e84" />
 
-Health Endpoint
+Health Endpoint</br>
 <img width="521" height="231" alt="AdobeExpressPhotos_8631c925e9084d09b1018847bab27461_CopyEdited" src="https://github.com/user-attachments/assets/4182cf42-55fe-4699-bc4b-b7be3791b66e" />
 
-Voting Endpoint
+Voting Endpoint</br>
 <img width="551" height="339" alt="image" src="https://github.com/user-attachments/assets/6e545f4d-786b-4491-be4f-36127b4be1c1" />
 
-Voting Result Endpoint
+Voting Result Endpoint</br>
 <img width="950" height="378" alt="Screenshot 2026-08-25 123024" src="https://github.com/user-attachments/assets/6cd688ce-57de-49a7-b25b-b67f46722d15" />
 
 ## 2. GitHub Branches
 
-Add a screenshot showing both `dev` and `main` branches.
+screenshot showing both `dev` and `main` branches.
 
-```text
-![GitHub Branches](screenshots/github-branches.png)
-```
+<img width="1268" height="868" alt="Screenshot 2026-08-25 123510" src="https://github.com/user-attachments/assets/5528f961-56f6-4d01-ae83-e92f3f03d147" />
 
 ## 3. Git History
 
-Add a screenshot showing the Version 1 and Version 2 commit/merge history.
+screenshot showing the Version 1 and Version 2 commit/merge history.
 
-```text
-![Git History](screenshots/git-history.png)
-```
-
----
+<img width="850" height="133" alt="AdobeExpressPhotos_7c8e036636e343dcb32fb7a2114802f9_CopyEdited" src="https://github.com/user-attachments/assets/4921f046-766e-4895-9892-c8030aa762d9" />
 
 # Learning Outcomes
 
